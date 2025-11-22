@@ -51,7 +51,7 @@ Tous les documents techniques et guides sont disponibles dans le dossier `Docs/`
 ## 📘 Documentation
 Tous les documents techniques sont disponibles dans `Docs/` :
 
-- Rapport complet : `Docs/rapport_antivirus.pdf`  
+- Rapport complet : `Docs/rapport_antivirus.docx`  
 - Fiche technique PC : `Docs/fiche_pc.pdf`  
 - Fiche technique smartphone : `Docs/fiche_mobile.pdf`  
 - Présentation PowerPoint : `Docs/presentation.pptx`
